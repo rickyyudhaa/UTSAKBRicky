@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="skyblue">#40B4E7</color>
+    <color name="whitetext">#FEFEFB</color>
+    <color name="grayform">#9A9A9A</color>
+    <color name="black">#000000</color>
+    <color name="bgwhite">#F8F8F8</color>
+    <color name="biruanu">#00B5B7</color>
+    <color name="bg2">#DEDEDE</color>
+</resources>

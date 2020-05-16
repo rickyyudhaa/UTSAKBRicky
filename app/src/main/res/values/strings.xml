@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UTSRicky</string>
+    <string name="Ayah">Ayah Bunda silahkan mengisi \n data anak di bawah ini</string>
+    <string name="namapgl">Nama Panggilan Anak</string>
+    <string name="isi">Isi dengan nama anak anda</string>
+    <string name="JL">Jenis Kelamin</string>
+    <string name="laki">Laki-Laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="umursekarang">Umur Saat ini </string>
+    <string name="cth">cth : 12</string>
+    <string name="note">*Umur diperlukan untuk rekomendasi waktu penggunaan \n handphone anak anda</string>
+    <string name="validasi">Silahkan isi semua biodata</string>
+    <string name="gz">Yeay, Selamat :)</string>
+    <string name="usecode">Silahkan Gunakan Kode Ini Untuk \n Masuk Kedalam Aplikasi Anak</string>
+    <string name="code">AVGR99</string>
+    <string name="bingung">Bingung saat membuat kesepakatan instalasi \n dengan anak?</string>
+    <string name="tutorial">Lihat Tutorial</string>
+    <string name="output">Steve Aoki Laki-laki \n 12 Tahun Berhasil Ditambahkan.</string>
+</resources>

@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/UTSAKBRicky.iml" filepath="$PROJECT_DIR$/.idea/UTSAKBRicky.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UTSRicky.iml" filepath="$PROJECT_DIR$/UTSRicky.iml" group="UTSRicky" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="UTSRicky/app" />
     </modules>
   </component>
 </project>
